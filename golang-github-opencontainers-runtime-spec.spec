@@ -4,7 +4,7 @@
 #
 Name     : golang-github-opencontainers-runtime-spec
 Version  : b185d033e95cc06825f4fe2f631f31e0e43bf58b
-Release  : 2
+Release  : 3
 URL      : https://github.com/opencontainers/runtime-spec/archive/b185d033e95cc06825f4fe2f631f31e0e43bf58b.tar.gz
 Source0  : https://github.com/opencontainers/runtime-spec/archive/b185d033e95cc06825f4fe2f631f31e0e43bf58b.tar.gz
 Summary  : No detailed summary available
